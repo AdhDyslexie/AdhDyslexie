@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hi there 👋, Welcome
+
+Hi 👋 my name is AdhDyslexie.
+
+I have a big interest in most things tech & gaming 
+
+- 🔭 I’m currently working on my bachalor of info science majoring in Software engineering.
+- 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=cpp,unreal&theme=light)](https://skillicons.dev)
+
+## Programming
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,py&theme=light)](https://skillicons.dev)
+
+## Backend
+
+[![My Skills](https://skillicons.dev/icons?i=django,mysql&theme=light)](https://skillicons.dev)
+
+## Other Tools
+[![My Skills](https://skillicons.dev/icons?i=bitbucket,github,git,vscode,visualstudio,unreal,markdown,obsidian&theme=dark)](https://skillicons.dev)
 
 <!--
 **AdhDyslexie/AdhDyslexie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +31,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+# Github Stats
+![AdhDyslexies GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhDyslexie&show_icons=true&theme=cobalt)
 -->
