@@ -21,6 +21,8 @@ I have a big interest in most things tech & gaming
 <!--
 **AdhDyslexie/AdhDyslexie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![](https://komarev.com/ghpvc/?username=adhdyslexie)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
