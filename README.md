@@ -18,10 +18,12 @@ I have a big interest in most things tech & gaming
 ## Other Tools
 [![My Skills](https://skillicons.dev/icons?i=bitbucket,github,git,vscode,visualstudio,unreal,markdown,obsidian&theme=dark)](https://skillicons.dev)
 
+- Testing something: ![](https://komarev.com/ghpvc/?username=adhdyslexie)
+
 <!--
 **AdhDyslexie/AdhDyslexie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://komarev.com/ghpvc/?username=adhdyslexie)
+
 
 Here are some ideas to get you started:
 
